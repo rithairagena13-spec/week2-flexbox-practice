@@ -7,7 +7,7 @@ This is my week 2 assignment. I used HTML and CSS to make a container that takes
 There are 6 colored blocks inside that move to all 9 positions automatically using a CSS keyframe animation that runs on a loop. No JavaScript was used.
 
 ## Video Link
-[Click here to watch my video presentation](https://www.loom.com/share/5d944f08f88d4cda819f2862d2ebf76d)
+[Click here to watch my video presentation](https://drive.google.com/file/d/1xn3BD_aCKIfHdy71VcHwOOnZIpyoenzm/view?usp=sharing)
 
 
 ## Flexbox Properties Used
